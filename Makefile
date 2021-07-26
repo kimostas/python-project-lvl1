@@ -4,8 +4,11 @@ install:
 brain-games:
 		poetry run brain-games
 
+brain-even:
+		poetry run brain-even
+
 build:
-		poetry install
+		poetry build
 
 publish:
 		poetry publish --dry-run
