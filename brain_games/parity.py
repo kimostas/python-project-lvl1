@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 
-import math
+# import math
 
 
-def parity():
-
+# def parity():
