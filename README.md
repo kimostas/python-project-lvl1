@@ -5,5 +5,4 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 
 ### Github workflow status badge
-![Linter](https://github.com/kimostas/python-project-lvl1/workflows/makelint/badge.svg)
-
+[![Linter](https://github.com/kimostas/python-project-lvl1/workflows/makelint/badge.svg)](https://github.com/kimostas/python-project-lvl1/actions)
