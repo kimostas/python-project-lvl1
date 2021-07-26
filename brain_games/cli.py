@@ -9,5 +9,9 @@ def welcome_user():
     print('Hello, ' + name + '!')
 
 
+def main():
+    welcome_user()
+
+
 if __name__ == '__main__':
     main()
