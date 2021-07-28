@@ -4,8 +4,6 @@
 def check_answer(game, name):
     print('Answer "yes" if the number is even, otherwise answer "no".')
     questions = 3
-
-
     for _ in range(questions):
         answer, number = game()
         print(f"Question: {number}")

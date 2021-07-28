@@ -9,6 +9,7 @@ def welcome_user():
     print('Hello, ' + name + '!')
     return name
 
+
 def main():
     welcome_user()
 
