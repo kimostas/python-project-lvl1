@@ -2,6 +2,7 @@
 
 
 def check_answer(game, name):
+    print('Answer "yes" if the number is even, otherwise answer "no".')
     questions = 3
 
 
