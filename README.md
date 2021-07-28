@@ -7,5 +7,5 @@
 ### Github workflow status badge
 ![Linter](https://github.com/kimostas/python-project-lvl1/actions/workflows/makelint.yml/badge.svg)
 
-### ASCIINEMA
-https://asciinema.org/a/Oj7LrLM6HgQxUTM3RMjV3CyC
+### Package content demonstration
+[![asciicast](https://asciinema.org/a/FIZdKiJdBcByKYU20habKbyYn.svg)](https://asciinema.org/a/FIZdKiJdBcByKYU20habKbyYn)
