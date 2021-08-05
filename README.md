@@ -10,7 +10,7 @@
 ### Package content demonstration
 [![asciicast](https://asciinema.org/a/FIZdKiJdBcByKYU20habKbyYn.svg)](https://asciinema.org/a/FIZdKiJdBcByKYU20habKbyYn)
 
-[![asciicast](https://asciinema.org/a/FIZdKiJdBcByKYU20habKbyYn.svg)](https://asciinema.org/a/FIZdKiJdBcByKYU20habKbyY)
+[![asciicast](https://asciinema.org/a/XPTJ7XvGLGZbOmngIWnbjXetv.svg)](https://asciinema.org/a/XPTJ7XvGLGZbOmngIWnbjXetv)
 
 [![asciicast](https://asciinema.org/a/gceUFmsQeAip990Co7I9QQz5A.svg)](https://asciinema.org/a/gceUFmsQeAip990Co7I9QQz5A)
 
