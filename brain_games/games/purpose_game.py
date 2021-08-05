@@ -11,3 +11,7 @@ def purpose_brain_gcd():
 
 def purpose_brain_progression():
     print("What number is missing in the progression?")
+
+
+def purpose_brain_prime():
+    print('Answer "yes" if given number is prime. Otherwise answer "no".')

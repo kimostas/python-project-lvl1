@@ -7,14 +7,17 @@ brain-games:
 brain-even:
 		poetry run brain-even
 
-brain_calc:
+brain-calc:
 		poetry run brain-calc
 
-brain_gcd:
+brain-gcd:
 		poetry run brain-gcd
 
-brain_progression:
+brain-progression:
 		poetry run brain-progression
+
+brain-prime:
+		poetry run brain_prime
 
 build:
 		poetry build
